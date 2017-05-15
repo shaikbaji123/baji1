@@ -3,7 +3,7 @@
 
   <groupId>baji1.com.in</groupId>
   <artifactId>baji1</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>baji1</name>
